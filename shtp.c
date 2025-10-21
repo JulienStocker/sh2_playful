@@ -27,7 +27,7 @@
 // ------------------------------------------------------------------------
 // Private types
 
-#define SHTP_INSTANCES (1)  // Number of SHTP devices supported
+#define SHTP_INSTANCES (2)  // Number of SHTP devices supported (changed for dual sensor support)
 #define SHTP_MAX_CHANS (8)  // Max channels per SHTP device
 #define SHTP_HDR_LEN (4)
 
